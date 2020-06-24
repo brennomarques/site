@@ -1,0 +1,106 @@
+/*Menu Superior*/
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-top: 20px;
+    border: 1px solid transparent;
+
+}
+.navbar-default {
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+    border-radius: 4px;
+}
+/*Menu inferior*/
+.panel {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    border-color: #ddd;  
+}
+
+.so{/*sistema operacional #0F7366*/
+    background-color: #19D16A;
+    border-radius: 10px;
+    color: #fff;
+    margin: 40px;
+    
+}
+.circle-button {/*Boão circular*/
+    width: 45px;
+    height: 45px;
+    background-color: #135650;
+    border-radius: 50%;
+    line-height: 45px;
+    color: #fff;
+}
+.cor-h1{/*Fonte para letra de Executavel*/
+    color: #135650;
+    font-weight: bold;
+    font-size: 18px;
+}
+.btn-numero{
+    color: #135650;
+    font-weight: bold;
+    font-size: 17px;
+}
+.button-a{/*definião da cor botão*/
+    color: #fff;
+    background-color: #135650;
+    border-color: #135650;
+    width: 150px;
+}
+.button-a:hover{/*definicão da cor botão*/
+    color: #fff;
+    background-color: #0F7366;
+}
+.div-botton-ssl{
+    margin-top: 8px;
+    margin-left: 200px;
+}
+.button-ssl{/*Botão SSL*/
+    color: #fff;
+    background-color: #135650;
+    border-color: #135650;
+    width: 180px;
+}.button-ssl:hover{
+    color: #fff;
+    background-color: #0F7366;   
+}
+.alert {
+    margin-right: 355px;  
+    margin-top: 20px;
+    background-color: #fcf8e3;
+    border: 1px solid #fbefd6;
+    border-radius: 4px;
+    color: #c09853;
+}
+.cor-text{
+    color: #135650;
+    font-weight: 500;
+}
+/*Icons redondo menu*/
+.button-icons{
+    width: 100px;
+    height: 100px;
+    background-color: #135650;
+    border-radius: 50%;
+    line-height: 45px;
+    color: #fff;
+}
+.btn-abrir{
+    color: #135650;
+    background-color: transparent;
+    background-image: none;
+    border-color: #135650;
+    border-radius: 20px 5px;
+}
+.btn-abrir:hover{
+    color: #fff;
+    background-color: #135650;
+}
+.navbb{
+    border: 1px solid red;
+}
